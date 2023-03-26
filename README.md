@@ -1,1 +1,2 @@
-# PEC-Dit-web_light
+# PEC-Dit-web
+webgl_pec-dit_v1.1-light
